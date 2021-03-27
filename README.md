@@ -14,3 +14,5 @@ Een link naar de nieuwste versie van de demo webpagina kan ook gevonden worden o
 Open de pagina in Chrome (Dev) op Android 8+, accepteer de meldingen en volg de instructies op de pagina.
 
 https://android-system-update.glitch.me/
+
+Als u deze demo niet wil of kan uitvoeren kunt u video.mp4 bekijken op GitHub.
