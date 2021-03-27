@@ -1,0 +1,10 @@
+/.config
+/.data
+.env
+.viminfo
+.node-gyp
+.glitchdotcom.json
+.glitch-assets
+shrinkwrap.yaml
+package-lock.json
+README.md
